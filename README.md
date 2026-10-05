@@ -1,2 +1,2 @@
 # Projeto simples de Jogo da Forca em Python
-# Para iniciar basta rodar
+# Para iniciar, basta rodar
